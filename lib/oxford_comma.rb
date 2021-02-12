@@ -1,4 +1,4 @@
-array = ["One", "Two"]
+array = ["One", "Two", "Three"]
 
 def oxford_comma(array)
   if array.length == 1
